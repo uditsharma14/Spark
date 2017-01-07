@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.spark.employee&apos; to &apos;ScalaApplication/src&apos;&#x0A;- Original project: &apos;SparkApplication&apos;&#x0A;- Destination element: &apos;ScalaApplication/src&apos;&#x0A;- Original element: &apos;SparkApplication/src/com.spark.employee&apos;" description="Copy package" destination="=ScalaApplication/src" element1="/src&lt;com.spark.employee" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1483816465404" version="1.0"/>
+</session>

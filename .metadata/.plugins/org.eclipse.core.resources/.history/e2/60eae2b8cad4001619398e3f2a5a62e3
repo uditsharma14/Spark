@@ -1,0 +1,7 @@
+package com.spark.employee
+
+import org.apache.spark.SparkContext._;
+
+object Maxwages {
+  
+}

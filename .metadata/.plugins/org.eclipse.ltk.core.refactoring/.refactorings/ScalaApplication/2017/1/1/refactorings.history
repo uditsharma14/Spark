@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.spark.employee&apos; to &apos;com&apos;&#x0A;- Original project: &apos;ScalaApplication&apos;&#x0A;- Original element: &apos;ScalaApplication/src/com.spark.employee&apos;&#x0A;- Renamed element: &apos;ScalaApplication/src/com&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.spark.employee&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.spark.employee" name="com" qualified="false" references="true" stamp="1483816911584" textual="false" version="1.0"/>
+</session>

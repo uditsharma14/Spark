@@ -1,0 +1,10 @@
+package com.spark.employee
+
+import org.apache.spark.SparkContext._;
+import org.apache.spark.{SparkConf,SparkContext}
+
+object Maxwages {
+  def main(args :Array[String]){
+    
+  }
+}

@@ -1,0 +1,874 @@
+2017-01-07 16:08:03,422  WARN [ModalContext] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:08:03,439  WARN [ModalContext] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:08:04,493  WARN [Worker-3] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:08:04,502  WARN [Worker-3] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:08:42,610  WARN [Worker-1] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:08:42,610  WARN [Worker-1] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:08:47,525  WARN [main] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:08:47,526  WARN [main] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:08:48,529 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:48,543 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:48,548 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:49,410 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:57,702 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:57,860 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:58,416 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:58,450 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:58,751 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:58,934 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:59,311 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:08:59,500 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:09:01,513 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:09:01,777 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:09:03,413  WARN [Worker-0] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:09:03,413  WARN [Worker-0] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:09:03,824  WARN [Java indexing] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:09:03,825  WARN [Java indexing] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:09:05,632  WARN [Worker-0] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:09:05,632  WARN [Worker-0] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:09:58,894  WARN [Worker-0] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:09:58,894  WARN [Worker-0] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:11:07,118  WARN [Worker-4] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:11:07,118  WARN [Worker-4] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:39:22,568  WARN [Worker-1] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:39:22,568  WARN [Worker-1] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:39:28,172 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:39:28,173 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:39:28,175 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-01-07 16:40:13,953  WARN [main] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:40:13,953  WARN [main] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:40:14,126  WARN [main] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:40:14,126  WARN [main] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:42:11,957  WARN [Worker-0] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:42:11,960  WARN [Worker-0] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:42:17,443  WARN [main] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:42:17,451  WARN [main] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:42:29,425  WARN [Worker-0] - ScalaProject - Project SparkApplication has platform default sourceLevel.
+2017-01-07 16:42:29,425  WARN [Worker-0] - ScalaProject - Project SparkApplication runs on platform default installation.
+2017-01-07 16:43:14,562  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for SparkApplication, setting default to 2.11.
+2017-01-07 16:43:28,935 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:43:28,959 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:43:28,963 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:43:28,967 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:43:35,622 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:43:36,518 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:43:37,668 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:43:38,222 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:43:38,709 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:43:38,856 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:43:39,067 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:43:39,085 ERROR [Worker-2] - System.err - /tmp/sbt_f65e5347/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:43:39,450 ERROR [Worker-2] - System.err - 12 errors found
+2017-01-07 16:43:44,026 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:43:44,032 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:43:44,043 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:43:44,046 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:43:45,837 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:43:46,033 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:43:46,418 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:43:46,688 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:43:47,023 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:43:47,111 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:43:47,199 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:43:47,219 ERROR [Worker-6] - System.err - /tmp/sbt_dc0626ca/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:43:47,571 ERROR [Worker-6] - System.err - 12 errors found
+2017-01-07 16:46:28,914 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:46:28,923 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:46:28,928 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:46:28,930 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:46:31,350 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:46:31,816 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:46:32,408 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:46:33,131 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:46:33,493 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:46:33,583 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:46:33,730 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:46:33,744 ERROR [Worker-8] - System.err - /tmp/sbt_5d54b302/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:46:33,919 ERROR [Worker-8] - System.err - 12 errors found
+2017-01-07 16:46:36,608 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:46:36,614 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:46:36,616 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:46:36,617 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:46:37,771 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:46:37,912 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:46:38,297 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:46:38,558 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:46:38,714 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:46:38,799 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:46:38,913 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:46:38,931 ERROR [Worker-6] - System.err - /tmp/sbt_b7e8ff49/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:46:39,138 ERROR [Worker-6] - System.err - 12 errors found
+2017-01-07 16:47:08,743 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:47:08,746 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:47:08,748 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:47:08,750 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:47:09,979 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:47:10,142 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:47:10,528 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:47:10,795 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:47:11,135 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:47:11,239 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:47:11,385 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:47:11,392 ERROR [Worker-0] - System.err - /tmp/sbt_df7ff675/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:47:11,501 ERROR [Worker-0] - System.err - 12 errors found
+2017-01-07 16:47:13,472 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:47:13,474 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:47:13,474 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:47:13,475 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:47:14,002 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:47:14,139 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:47:14,384 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:47:14,593 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:47:14,667 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:47:14,714 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:47:14,789 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:47:14,794 ERROR [Worker-3] - System.err - /tmp/sbt_52b1421d/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:47:14,890 ERROR [Worker-3] - System.err - 12 errors found
+2017-01-07 16:47:16,850 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-07 16:47:16,862 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-07 16:47:16,866 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-07 16:47:16,876 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-07 16:47:17,539 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-07 16:47:17,742 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-07 16:47:17,939 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-07 16:47:18,205 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-07 16:47:18,333 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-07 16:47:18,374 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-07 16:47:18,442 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-07 16:47:18,447 ERROR [Worker-8] - System.err - /tmp/sbt_65b1be57/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-07 16:47:18,530 ERROR [Worker-8] - System.err - 12 errors found
+2017-01-07 16:47:45,449 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.tools.refactoring.transformation.TreeTransformations$$anonfun$11$$anonfun$apply$1.applyOrElse(TreeTransformations.scala:239)
+	at scala.tools.refactoring.transformation.TreeTransformations$$anonfun$11$$anonfun$apply$1.applyOrElse(TreeTransformations.scala:238)
+	at scala.PartialFunction$Lifted.apply(PartialFunction.scala:223)
+	at scala.PartialFunction$Lifted.apply(PartialFunction.scala:219)
+	at scala.tools.refactoring.transformation.Transformations$$anon$1.apply(Transformations.scala:67)
+	at scala.tools.refactoring.transformation.Transformations$$anon$1.apply(Transformations.scala:66)
+	at scala.Option.flatMap(Option.scala:171)
+	at scala.tools.refactoring.transformation.Transformations$Transformation$$anon$7.apply(Transformations.scala:42)
+	at scala.tools.refactoring.implementations.AddImportStatement.addImports(AddImportStatement.scala:23)
+	at scala.tools.refactoring.implementations.AddImportStatement.addImport(AddImportStatement.scala:17)
+	at org.scalaide.core.completion.CompletionProposal$$anonfun$applyCompletionToDocument$1$$anonfun$8.apply(CompletionProposal.scala:222)
+	at org.scalaide.core.completion.CompletionProposal$$anonfun$applyCompletionToDocument$1$$anonfun$8.apply(CompletionProposal.scala:220)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:457)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2945)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-01-08 00:02:03,945 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:02:04,010 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:02:04,011 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:02:04,012 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:02:05,182 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:02:05,305 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:02:05,499 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:02:05,784 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:02:05,932 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:02:06,004 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:02:06,191 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:02:06,195 ERROR [ModalContext] - System.err - /tmp/sbt_11b68465/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:02:06,265 ERROR [ModalContext] - System.err - 12 errors found
+2017-01-08 00:02:34,360 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:02:34,372 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:02:34,373 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:02:34,374 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:02:35,493 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:02:35,680 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:02:36,007 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:02:36,309 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:02:36,543 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:02:36,662 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:02:36,764 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:02:36,771 ERROR [Worker-18] - System.err - /tmp/sbt_db7af4f1/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:02:36,879 ERROR [Worker-18] - System.err - 12 errors found
+2017-01-08 00:23:31,701  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for SparkApplication, setting default to 2.11.
+2017-01-08 00:28:14,145 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:28:14,153 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:28:14,155 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:28:14,157 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:28:15,981 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:28:16,267 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:28:16,750 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:28:17,071 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:28:17,312 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:28:17,403 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:28:17,526 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:28:17,533 ERROR [ModalContext] - System.err - /tmp/sbt_350375c3/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:28:17,681 ERROR [ModalContext] - System.err - 12 errors found
+2017-01-08 00:30:39,524 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:30:39,526 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:30:39,527 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:30:39,528 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:30:40,329 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:30:40,516 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:30:40,981 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:30:41,225 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:30:41,460 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:30:41,521 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:30:41,610 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:30:41,624 ERROR [Worker-3] - System.err - /tmp/sbt_98917d3a/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:30:41,736 ERROR [Worker-3] - System.err - 12 errors found
+2017-01-08 00:36:05,369 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:36:05,371 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:36:05,372 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:36:05,373 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:36:06,666 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:36:06,797 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:36:07,074 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:36:07,297 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:36:07,391 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:36:07,429 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:36:07,487 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:36:07,492 ERROR [Worker-9] - System.err - /tmp/sbt_7993385d/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:36:07,583 ERROR [Worker-9] - System.err - 12 errors found
+2017-01-08 00:37:30,072 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:37:30,074 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:37:30,075 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:37:30,078 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:37:31,411 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:37:31,565 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:37:31,876 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:37:32,054 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:37:32,173 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:37:32,232 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:37:32,315 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:37:32,319 ERROR [Worker-10] - System.err - /tmp/sbt_7fdc7b6c/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:37:32,424 ERROR [Worker-10] - System.err - 12 errors found
+2017-01-08 00:37:49,233 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:37:49,235 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:37:49,236 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:37:49,237 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:37:50,487 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:37:50,653 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:37:50,994 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:37:51,247 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:37:51,377 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:37:51,492 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:37:51,572 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:37:51,579 ERROR [Worker-3] - System.err - /tmp/sbt_e12899fb/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:37:51,736 ERROR [Worker-3] - System.err - 12 errors found
+2017-01-08 00:41:53,765 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:41:53,767 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:41:53,768 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:41:53,768 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:41:54,248 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:41:54,349 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:41:54,560 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:41:54,684 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:41:54,780 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:41:54,824 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:41:54,880 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:41:54,884 ERROR [ModalContext] - System.err - /tmp/sbt_6f6d512/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:41:54,957 ERROR [ModalContext] - System.err - 12 errors found
+2017-01-08 00:43:53,440  WARN [ModalContext] - ScalaProject - Project ScalaApplication has platform default sourceLevel.
+2017-01-08 00:43:53,441  WARN [ModalContext] - ScalaProject - Project ScalaApplication runs on platform default installation.
+2017-01-08 00:44:25,836  WARN [Java indexing] - ScalaProject - Project ScalaApplication has platform default sourceLevel.
+2017-01-08 00:44:25,840  WARN [Java indexing] - ScalaProject - Project ScalaApplication runs on platform default installation.
+2017-01-08 00:45:07,321  WARN [Worker-10] - ScalaProject - Project ScalaApplication has platform default sourceLevel.
+2017-01-08 00:45:07,322  WARN [Worker-10] - ScalaProject - Project ScalaApplication runs on platform default installation.
+2017-01-08 00:45:07,926  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project ScalaApplication has platform default sourceLevel.
+2017-01-08 00:45:07,928  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project ScalaApplication runs on platform default installation.
+2017-01-08 00:45:37,056 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:45:37,071 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:45:37,073 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:45:37,075 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:45:39,557 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:45:39,981 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:45:40,758 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:45:41,148 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:45:41,470 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:45:41,666 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:45:41,886 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:45:41,894 ERROR [Worker-13] - System.err - /tmp/sbt_14ccc795/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:45:42,136 ERROR [Worker-13] - System.err - 12 errors found
+2017-01-08 00:51:00,606 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:51:00,609 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:51:00,610 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:51:00,611 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:51:01,750 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:51:01,880 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:51:02,278 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:51:02,572 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:51:02,835 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:51:02,919 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:51:03,011 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:51:03,016 ERROR [Worker-17] - System.err - /tmp/sbt_f51d224c/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:51:03,132 ERROR [Worker-17] - System.err - 12 errors found
+2017-01-08 00:51:27,171 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:51:27,176 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:51:27,181 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:51:27,183 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:51:27,890 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:51:28,018 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:51:28,284 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:51:28,470 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:51:28,619 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:51:28,677 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:51:28,768 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:51:28,776 ERROR [Worker-10] - System.err - /tmp/sbt_a68eddfe/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:51:28,871 ERROR [Worker-10] - System.err - 12 errors found
+2017-01-08 00:52:00,350 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:52:00,358 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:52:00,359 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:52:00,360 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:52:01,938 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:52:02,142 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:52:02,615 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:52:02,829 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:52:02,918 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:52:02,958 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:52:03,017 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:52:03,024 ERROR [Worker-16] - System.err - /tmp/sbt_64520179/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:52:03,119 ERROR [Worker-16] - System.err - 12 errors found
+2017-01-08 00:52:03,889 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ClassName.scala:16: error: not found: value enteringPhase
+    enteringPhase(currentRun.flattenPhase.next) { s fullName separator }
+    ^
+2017-01-08 00:52:03,890 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ClassName.scala:29: error: not found: value enteringPhase
+  protected def classNameAsSeenIn(in: Symbol, s: Symbol): String = enteringPhase(currentRun.picklerPhase.next) {
+                                                                   ^
+2017-01-08 00:52:03,891 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ClassName.scala:39: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) { s.fullName }
+    ^
+2017-01-08 00:52:03,892 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ClassName.scala:42: error: not found: value enteringPhase
+    enteringPhase(currentRun.picklerPhase.next) {
+    ^
+2017-01-08 00:52:04,549 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/DelegatingReporter.scala:48: error: value finalPosition is not a member of scala.reflect.internal.util.Position
+            posIn.finalPosition
+                  ^
+2017-01-08 00:52:04,664 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/Dependency.scala:170: error: not found: value devWarning
+          devWarning(s"No enclosing class. Discarding dependency on $dep (currentOwner = $currentOwner).")
+          ^
+2017-01-08 00:52:04,878 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ExtractAPI.scala:208: error: not found: value enteringPhase
+    enteringPhase(currentRun.typerPhase.next) {
+    ^
+2017-01-08 00:52:05,014 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ExtractAPI.scala:378: error: value getterIn is not a member of ExtractAPI.this.global.Symbol
+      val getter = sym.getterIn(sym.enclClass)
+                       ^
+2017-01-08 00:52:05,132 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ExtractAPI.scala:616: error: value unexpandedName is not a member of ExtractAPI.this.global.Symbol
+      val n = s.unexpandedName
+                ^
+2017-01-08 00:52:05,178 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/ExtractUsedNames.scala:145: error: value hasSymbolField is not a member of ExtractUsedNames.this.global.Tree
+      case t if t.hasSymbolField =>
+                  ^
+2017-01-08 00:52:05,242 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/GlobalHelpers.scala:21: error: type MacroExpansionAttachment is not a member of scala.tools.nsc.typechecker.Analyzer{val global: GlobalHelpers.this.global.type}
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                           ^
+2017-01-08 00:52:05,247 ERROR [Worker-16] - System.err - /tmp/sbt_a8ad027d/xsbt/GlobalHelpers.scala:21: error: value expandee is not a member of Any
+        case att: analyzer.MacroExpansionAttachment => att.expandee
+                                                           ^
+2017-01-08 00:52:05,335 ERROR [Worker-16] - System.err - 12 errors found
