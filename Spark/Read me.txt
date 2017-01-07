@@ -1,0 +1,5 @@
+This POC is calculating the maximum wages for every employee.
+
+input data contains the three fields  employeeId,Name and third field is wage for that employee.
+
+and Outfile contains the EmployeeId, Maximum wage for that employee.
