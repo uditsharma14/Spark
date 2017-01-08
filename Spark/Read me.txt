@@ -2,4 +2,9 @@ This POC is calculating the maximum wages for every employee.
 
 input data contains the three fields  employeeId,Name and third field is wage for that employee.
 
-and Outfile contains the EmployeeId, Maximum wage for that employee.
+and output directory having output file "part-00000" contains the EmployeeId, Maximum wage for that employee.
+
+
+To execute this application please follow the command mentioned below
+
+/usr/local/spark/bin/spark-submit --class Maxwages --master local <jar Location> <input file path> <output file path>
