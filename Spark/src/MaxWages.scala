@@ -4,7 +4,7 @@ import org.apache.spark.rdd.RDD.rddToPairRDDFunctions
 
 object Maxwages{
   def main(args: Array[String]) {
-    val conf = new SparkConf().setAppName("Max Temperature")
+    val conf = new SparkConf().setAppName("Max Wages")
     val sc = new SparkContext(conf)
     sc.textFile(args(0))
       .map(_.split("\t"))
